@@ -13,7 +13,7 @@ void selectionSort(int* arr, int size) {
 }
 
 int main() {
-    int arr[5] = {5,4,3,2,1};
+    int arr[6] = {6,5,4,3,2,1};
     int size = 5;
 
     selectionSort(arr, size);
