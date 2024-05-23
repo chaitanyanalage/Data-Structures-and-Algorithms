@@ -1,12 +1,13 @@
 #include<iostream>
 using namespace std;
 
-void find2n(int n) {
-    int num = 1;
-    for(int i = 1; i <= n; i++) {
-        num = num * 2;
+int find2n(int n) {
+    //base case
+    if(n == 0) {
+        return 1;
     }
-    cout << "2^" << n << " is " << num << endl;
+
+    return 2*find2n(n-1);
 }
 
 int main() {
@@ -15,7 +16,7 @@ int main() {
     cout << "Enter a number: " << endl;
     cin >> n;
 
-    find2n(n);
+    cout << "2^" << n << " is " << find2n(n) << endl;
 
     return 0;
 }
