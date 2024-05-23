@@ -1,14 +1,13 @@
 #include<iostream>
 using namespace std;
 
-void factorial(int n) {
-    int sum = 1;
-
-    for(int i = 1; i <= n; i++) {
-        sum = sum * n;
+int factorial(int n) {
+    //base case
+    if(n == 0) {
+        return 1;
     }
 
-    cout << n << "^" << n << " is " << sum << endl;
+    return n * factorial(n-1);
 }
 
 int main() {
@@ -17,7 +16,7 @@ int main() {
     cout << "Enter a number: " << endl;
     cin >> n;
 
-    factorial(n);
+    cout << n << "^" << n << " is " << factorial(n) << endl;
 
     return 0;
 }

@@ -7,7 +7,7 @@ int find2n(int n) {
         return 1;
     }
 
-    return 2*find2n(n-1);
+    return 2 * find2n(n-1);
 }
 
 int main() {
