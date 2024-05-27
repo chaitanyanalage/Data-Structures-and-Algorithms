@@ -1,0 +1,23 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build",
+      "type": "shell",
+      "command": "clang++",
+      "args": [
+        "-std=c++11", // Specify the C++ standard here
+        "-g",
+        "${/Users/cgnalage/Documents/GitHub/Data-Structures-and-Algorithms/Following Love Babbar DSA/Lecture - 18: Insertion Sort/InsertionSort.cpp}",
+        "-o",
+        "${/Users/cgnalage/Documents/GitHub/Data-Structures-and-Algorithms/Following Love Babbar DSA/Lecture - 18: Insertion Sort}/${InsertionSort}"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": ["$gcc"],
+      "detail": "Generated task by Debugger."
+    }
+  ]
+}

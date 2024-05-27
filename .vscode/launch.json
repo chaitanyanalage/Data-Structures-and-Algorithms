@@ -1,0 +1,27 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "clang++ build and debug active file",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${/Users/cgnalage/Documents/GitHub/Data-Structures-and-Algorithms/Following Love Babbar DSA/Lecture - 18: Insertion Sort}/${InsertionSort}",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${/Users/cgnalage/Documents/GitHub/Data-Structures-and-Algorithms}",
+      "environment": [],
+      "externalConsole": false,
+      "MIMode": "lldb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for lldb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ],
+      "preLaunchTask": "build",
+      "miDebuggerPath": "/usr/bin/lldb", // Ensure this is the correct path to lldb on your system
+      "internalConsoleOptions": "openOnSessionStart"
+    }
+  ]
+}
