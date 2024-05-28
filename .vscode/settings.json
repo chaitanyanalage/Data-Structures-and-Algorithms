@@ -1,3 +1,8 @@
 {
-  "C_Cpp.errorSquiggles": "enabled"
+  "C_Cpp.errorSquiggles": "disabled",
+  "files.associations": {
+    "vector": "cpp",
+    "iostream": "cpp",
+    "deque": "cpp"
+  }
 }
