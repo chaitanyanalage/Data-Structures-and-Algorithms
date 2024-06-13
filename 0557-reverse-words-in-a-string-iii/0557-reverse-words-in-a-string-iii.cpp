@@ -6,7 +6,7 @@ public:
         
         string ans = "", temp = "";
         
-        for(int i = 0; i < s.size(); i++) {
+        for(int i = 0; i < s.size(); i++) {  
             if(s[i] == ' ') {
                 if(temp != "") {
                     ans = temp + " " + ans;
