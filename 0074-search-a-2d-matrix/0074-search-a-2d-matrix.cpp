@@ -8,6 +8,10 @@ public:
         int end = row * col - 1;
 
         int mid = start + (end - start)/ 2;
+        
+        if(matrix.size() == 0) {
+            return false;
+        }
 
         while(start <= end) {
 
