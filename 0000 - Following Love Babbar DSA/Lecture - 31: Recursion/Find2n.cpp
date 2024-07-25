@@ -10,7 +10,7 @@ int find2n(int n) {
     return 2 * find2n(n-1);
 }
 
-int main() {
+int main() { 
     int n;
 
     cout << "Enter a number: " << endl;
