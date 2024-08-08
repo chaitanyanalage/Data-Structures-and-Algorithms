@@ -16,7 +16,7 @@ void merge(int* arr, int s, int e) {
         first[i] = arr[mainArrayIndex++];
     }
 
-    int k = mid + 1;
+    //int k = mid + 1;
     for(int i=0; i<len2; i++) {
         second[i] = arr[mainArrayIndex++];
     }
@@ -75,10 +75,8 @@ int main() {
     mergeSort(arr, 0, n-1);
 
     for(int i=0; i < n; i++) {
-        cout << arr[i] << endl;
-    }
-
-    cout << endl;
+        cout << arr[i] << " ";
+    } cout << endl;
 
     return 0;
 }

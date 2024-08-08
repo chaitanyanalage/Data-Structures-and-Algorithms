@@ -1,9 +1,18 @@
 #include<iostream>
 using namespace std;
 
-bool binarySearch(int arr[], int start, int end, int key){
-    //base case
+void print(int arr[], int s, int e) {
+    for(int i = s; i < e; i++) {
+        cout << arr[i] << " ";
+    } cout << endl;
+}
 
+bool binarySearch(int arr[], int start, int end, int key){
+    
+    cout << endl;
+    print(arr, start, end);
+
+    //base case
     //element not found
     if(start > end)
         return false;
