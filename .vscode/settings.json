@@ -4,6 +4,7 @@
     "vector": "cpp",
     "iostream": "cpp",
     "deque": "cpp",
-    "ostream": "cpp"
+    "ostream": "cpp",
+    "new": "cpp"
   }
 }

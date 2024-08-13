@@ -11,6 +11,7 @@ using namespace std;
         public:
         char *name;
         char level;
+        static int timeToComplete;
 
         Hero() {
             cout << endl;
@@ -72,14 +73,28 @@ using namespace std;
             strcpy(this->name,name);
         }
 
+        static int random() {
+            return timeToComplete;
+        }
+
         ~Hero() {
             cout << "Destructor called" << endl;
         }
 
     };
 
-    int main() {
+    int Hero::timeToComplete = 5;
 
+    int main() {
+        cout << Hero::timeToComplete << endl;
+
+        Hero a;
+        cout << a.timeToComplete << endl;
+
+        cout << Hero::random() << endl;
+
+        
+        /*
         //Static
         Hero a;
 
@@ -87,7 +102,7 @@ using namespace std;
         Hero *b = new Hero();
         //For dymanic  we need to call destructor manually
         delete b;
-
+        */
 
 
         /*
