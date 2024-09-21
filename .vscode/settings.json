@@ -5,6 +5,15 @@
     "iostream": "cpp",
     "deque": "cpp",
     "ostream": "cpp",
-    "new": "cpp"
+    "new": "cpp",
+    "__node_handle": "cpp",
+    "__bit_reference": "cpp",
+    "bitset": "cpp",
+    "map": "cpp",
+    "set": "cpp",
+    "unordered_map": "cpp",
+    "queue": "cpp",
+    "stack": "cpp",
+    "istream": "cpp"
   }
 }

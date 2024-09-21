@@ -33,6 +33,7 @@ int main() {
     for(int i:d) {
         cout << i << " ";
     } cout << endl;
+    
      
 
 }

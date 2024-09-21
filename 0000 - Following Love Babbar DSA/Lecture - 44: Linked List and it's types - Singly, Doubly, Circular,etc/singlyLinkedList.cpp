@@ -54,6 +54,7 @@ void insertAtPosition(Node* &tail, Node* &head, int position, int d) {
         cnt++;
     }
 
+    //insert at End
     if(temp -> next == NULL) {
         insertAtTail(tail,d);
         return;
@@ -115,6 +116,7 @@ int main() {
 
     //head pointed to new node
     Node* head = node1;
+    //tail pointed to new node
     Node* tail = node1;
 
     // insertAtHead(head, 12);
