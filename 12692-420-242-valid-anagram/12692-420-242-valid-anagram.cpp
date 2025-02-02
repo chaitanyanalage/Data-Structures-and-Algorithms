@@ -5,14 +5,18 @@ public:
             return false;
         }
 
-        unordered_map<char, int> countS;
-        unordered_map<char, int> countT;
-
-        for(int i = 0; i < s.size(); i++) {
-            countS[s[i]]++;
-            countT[t[i]]++;
+        vector<int> count(36, 0);
+        for(int i = 0; i < s.length(); i++) {
+            count[s[i] - 'a']++;
+            count[t[i] - 'a']--;
         }
 
-        return countS == countT;
+        for(int val : count) {
+            if(val != 0) {
+                return false;
+            }
+        }
+
+        return true;
     }
 };
