@@ -4,22 +4,22 @@ public:
         int start = 0;
         int end = s.length() - 1;
         string vowels = "aeiouAEIOU";
-        string words = s;
+        // string words = s;
 
         while(start < end) {
-            while(start < end && vowels.find(words[start]) == string::npos) {
+            while(start < end && vowels.find(s[start]) == string::npos) {
                 start++;
             }
 
-            while(start < end && vowels.find(words[end]) == string::npos) {
+            while(start < end && vowels.find(s[end]) == string::npos) {
                 end--;
             }
 
-            swap(words[start], words[end]);
+            swap(s[start], s[end]);
 
             start++;
             end--;
         }
-        return words;
+        return s;
     }
 };
