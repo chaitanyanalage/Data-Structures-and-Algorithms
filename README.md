@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1894-merge-strings-alternately](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-invalid-tweets](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2087-confirmation-rate) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
