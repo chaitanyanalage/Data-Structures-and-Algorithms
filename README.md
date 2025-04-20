@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0334-increasing-triplet-subsequence) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0238-product-of-array-except-self) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
