@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1942-primary-department-for-each-employee](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/1942-primary-department-for-each-employee) |
 | [1948-rearrange-products-table](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2024-calculate-special-bonus) |
+| [2041-the-latest-login-in-2020](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2041-the-latest-login-in-2020) |
 | [2057-count-salary-categories](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2127-employees-whose-manager-left-the-company) |
