@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0443-string-compression) |
@@ -139,9 +140,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
