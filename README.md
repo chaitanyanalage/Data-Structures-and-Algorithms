@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2041-the-latest-login-in-2020](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2041-the-latest-login-in-2020) |
 | [2057-count-salary-categories](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2087-confirmation-rate) |
+| [2110-employees-with-missing-information](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2110-employees-with-missing-information) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## String
