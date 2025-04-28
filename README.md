@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [1894-merge-strings-alternately](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/1894-merge-strings-alternately) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0076-minimum-window-substring) |
+| [0567-permutation-in-string](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0940-fruit-into-baskets) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0076-minimum-window-substring) |
+| [0567-permutation-in-string](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0940-fruit-into-baskets) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
