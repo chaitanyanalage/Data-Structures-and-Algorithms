@@ -1,57 +1,38 @@
 class Solution {
-
-private: 
-    bool checkEqual(int a[26], int b[26]) {
-        for(int i = 0; i < 26; i++) {
-            if(a[i] != b[i]) {
-                return 0;
+public:
+    bool checkInclusion(string s1, string s2) {
+        if (s1.length() > s2.length()) {
+            return false;
+        }
+        
+        unordered_map<char, int> s1Count;
+        unordered_map<char, int> s2Count;
+        
+        for (int i = 0; i < s1.length(); i++) {
+            s1Count[s1[i]]++;
+            s2Count[s2[i]]++;
+        }
+        
+        if (s1Count == s2Count) {
+            return true;
+        }
+        
+        int left = 0;
+        for (int right = s1.length(); right < s2.length(); right++) {
+            s2Count[s2[right]]++;
+            s2Count[s2[left]]--;
+            
+            if (s2Count[s2[left]] == 0) {
+                s2Count.erase(s2[left]);
+            }
+            
+            left++;
+            
+            if (s1Count == s2Count) {
+                return true;
             }
         }
-        return 1;
-    }
-
-public:
-
-    bool checkInclusion(string s1, string s2) {
-
-        //charater count array
-        int count1[26] = {0};
-
-        for(int i = 0; i < s1.length(); i++) {
-            int index = s1[i] - 'a';
-            count1[index]++;
-        }
-
-        //traverse s2 string in window of size s1 length and compare
-        int i = 0;
-        int windowSize = s1.length();
-        int count2[26] = {0};
-
-        //running for first window
-        while(i < windowSize && i < s2.length()) {
-            int index = s2[i] - 'a';
-            count2[index]++;
-            i++;
-        }
-
-        if(checkEqual(count1, count2))
-            return 1;
         
-        //running for next window
-        while(i < s2.length()) {
-            char newChar = s2[i];
-            int index = newChar - 'a';
-            count2[index]++;
-
-            char oldChar = s2[i - windowSize];
-            index = oldChar - 'a';
-            count2[index]--;
-
-            i++;
-
-            if(checkEqual(count1, count2))
-                return 1;
-        }
-        return 0;
+        return false;        
     }
 };
