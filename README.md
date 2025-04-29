@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0605-can-place-flowers) |
 | [0940-fruit-into-baskets](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0940-fruit-into-baskets) |
+| [1046-max-consecutive-ones-iii](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1046-max-consecutive-ones-iii](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 ## Database
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -157,5 +160,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0940-fruit-into-baskets) |
+| [1046-max-consecutive-ones-iii](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
