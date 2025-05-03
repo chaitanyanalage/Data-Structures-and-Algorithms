@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0680-valid-palindrome-ii) |
+| [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/1894-merge-strings-alternately) |
 ## Math
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 ## Stack
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
+| [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0940-fruit-into-baskets](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0940-fruit-into-baskets) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
