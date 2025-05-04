@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0443-string-compression) |
+| [0541-reverse-string-ii](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [1894-merge-strings-alternately](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/1894-merge-strings-alternately) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0443-string-compression) |
+| [0541-reverse-string-ii](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
