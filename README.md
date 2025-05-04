@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2561-number-of-distinct-averages](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2561-number-of-distinct-averages) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [1894-merge-strings-alternately](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/1894-merge-strings-alternately) |
+| [2561-number-of-distinct-averages](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2561-number-of-distinct-averages) |
 ## Binary Search
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
+| [2561-number-of-distinct-averages](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2561-number-of-distinct-averages) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0940-fruit-into-baskets](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0940-fruit-into-baskets) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2561-number-of-distinct-averages](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2561-number-of-distinct-averages) |
 ## Sliding Window
 |  |
 | ------- |
