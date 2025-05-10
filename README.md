@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2561-number-of-distinct-averages](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2561-number-of-distinct-averages) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
+| [2634-minimum-common-value](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2634-minimum-common-value) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2561-number-of-distinct-averages](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2561-number-of-distinct-averages) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
+| [2634-minimum-common-value](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2634-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1046-max-consecutive-ones-iii](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
+| [2634-minimum-common-value](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2634-minimum-common-value) |
 ## Database
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0940-fruit-into-baskets) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2561-number-of-distinct-averages](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2561-number-of-distinct-averages) |
+| [2634-minimum-common-value](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2634-minimum-common-value) |
 ## Sliding Window
 |  |
 | ------- |
