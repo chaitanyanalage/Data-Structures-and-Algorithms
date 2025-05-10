@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/1894-merge-strings-alternately) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2128-reverse-prefix-of-word](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2128-reverse-prefix-of-word) |
 | [2561-number-of-distinct-averages](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2561-number-of-distinct-averages) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2634-minimum-common-value](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2634-minimum-common-value) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/1894-merge-strings-alternately) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2128-reverse-prefix-of-word](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2128-reverse-prefix-of-word) |
 ## Math
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
+| [2128-reverse-prefix-of-word](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2128-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
