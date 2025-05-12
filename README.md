@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2561-number-of-distinct-averages) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2634-minimum-common-value](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2634-minimum-common-value) |
+| [2698-find-the-array-concatenation-value](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2698-find-the-array-concatenation-value) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Two Pointers
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2561-number-of-distinct-averages) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2634-minimum-common-value](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2634-minimum-common-value) |
+| [2698-find-the-array-concatenation-value](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2698-find-the-array-concatenation-value) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Binary Search
 |  |
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Simulation
+|  |
+| ------- |
+| [2698-find-the-array-concatenation-value](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2698-find-the-array-concatenation-value) |
 <!---LeetCode Topics End-->
