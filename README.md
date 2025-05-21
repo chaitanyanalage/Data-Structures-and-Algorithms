@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0541-reverse-string-ii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [2561-number-of-distinct-averages](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/2561-number-of-distinct-averages) |
 ## Dynamic Programming
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0940-fruit-into-baskets](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0940-fruit-into-baskets) |
