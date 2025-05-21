@@ -1,14 +1,15 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        unordered_map<int, int> prevMap;
+        int current_sum = 0;
 
-        for(int i = 0; i < nums.size(); i++) {
-            int diff = target - nums[i];
-            if(prevMap.find(diff) != prevMap.end()) {
-                return{prevMap[diff], i };
+        for(int i = 0; i < nums.size() - 1; i++) {
+            for(int j = i + 1; j < nums.size(); j++) {
+                current_sum = nums[i] + nums[j];
+                if(current_sum == target) {
+                    return {i,j};
+                }
             }
-            prevMap.insert({nums[i], i});
         }
         return {};
     }
