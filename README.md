@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0217-contains-duplicate) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
