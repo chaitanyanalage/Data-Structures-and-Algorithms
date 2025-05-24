@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0238-product-of-array-except-self) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
@@ -251,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/chaitanyanalage/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
