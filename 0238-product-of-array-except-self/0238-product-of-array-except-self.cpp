@@ -14,6 +14,7 @@ public:
             ans[i] *= right;
             right *= nums[i];
         }
+
         return ans;
     }
 };
