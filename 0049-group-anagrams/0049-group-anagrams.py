@@ -1,17 +1,9 @@
-class Solution(object):
-    def groupAnagrams(self, strs):
-        """
-        :type strs: List[str]
-        :rtype: List[List[str]]
-        """
-        anagram_map = {}
+class Solution:
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+        ans = defaultdict(list)
 
-        for word in strs:
-            key = ''.join(sorted(word))
-            if key in anagram_map:
-                anagram_map[key].append(word)
-            else:
-                anagram_map[key] = [word]
+        for s in strs:
+            key = "".join(sorted(s))
+            ans[key].append(s)
 
-        return list(anagram_map.values())
-        
+        return list(ans.values())
