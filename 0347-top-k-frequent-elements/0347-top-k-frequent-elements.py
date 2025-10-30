@@ -1,30 +1,15 @@
-class Solution(object):
-    def topKFrequent(self, nums, k):
-        """
-        :type nums: List[int]
-        :type k: int
-        :rtype: List[int]
-        """
+class Solution:
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        heap = []
+        counter = {}
+        for n in nums:
+            counter[n] = 1 + counter.get(n,0)
 
-        #counting
-        count = {}
-        for num in nums:
-            if num in count:
-                count[num] += 1
-            else:
-                count[num] = 1
-        
-        #paring
-        freq_pair = []
-        for num in count:
-            freq_pair.append((count[num], num))
+        for key, val in counter.items():
+            heapq.heappush(heap,(-val, key))
 
-        #sort
-        freq_pair.sort(reverse = True)
+        res = []
+        while len(res) < k:
+            res.append(heapq.heappop(heap)[1])
 
-        #top k
-        result = []
-        for i in range(k):
-            result.append(freq_pair[i][1])
-            
-        return result
+        return res
