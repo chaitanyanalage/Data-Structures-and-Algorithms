@@ -7,3 +7,4 @@ class Solution:
             if diff in indices:
                 return [indices[diff], i]
             indices[n] = i
+        return []
