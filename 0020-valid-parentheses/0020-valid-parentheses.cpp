@@ -1,39 +1,24 @@
+#include<string>
+
 class Solution {
 public:
     bool isValid(string s) {
-        stack<char> st;
-        for(int i = 0; i < s.length(); i++) {
-            char ch = s[i];
-
-            //if opening bracket, stack push
-            //if close bracket, stacktop check and pop
-
-            if(ch == '(' || ch =='{' || ch == '[') {
-                st.push(ch);
+        while(true) {
+            size_t pos = string::npos;
+            if((pos = s.find("()")) != string::npos) {
+                s.erase(pos, 2);
+                continue;
             }
-            else {
-                //for closing bracket
-                if(!st.empty()) {
-                    char top = st.top();
-                    if((ch == ')' && top == '(') ||
-                    (ch == '}' && top == '{') ||
-                    (ch == ']' && top == '[')) {
-                        st.pop();
-                    }
-                    else {
-                        return false;
-                    }
-                }
-                else {
-                    return false;
-                }
+            if((pos = s.find("{}")) != string::npos) {
+                s.erase(pos, 2);
+                continue;
             }
+            if((pos = s.find("[]")) != string::npos) {
+                s.erase(pos, 2);
+                continue;
+            }
+            break;
         }
-        if(st.empty()) {
-            return true;
-        }
-        else {
-            return false;
-        }
+        return s.empty();
     }
 };
